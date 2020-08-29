@@ -115,6 +115,8 @@ private:
     std::unique_ptr<weld::ComboBox> m_xMouseMiddleLB;
     std::unique_ptr<weld::Button> m_xMoreIcons;
 
+    std::unique_ptr<weld::Button> m_xButtonTestRenderFeatures;
+
     DECL_LINK(OnAntialiasingToggled, weld::Toggleable&, void);
     DECL_LINK(OnUseSkiaToggled, weld::Toggleable&, void);
     DECL_STATIC_LINK(OfaViewTabPage, OnMoreIconsClick, weld::Button&, void);
