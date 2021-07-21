@@ -10,7 +10,7 @@
 $(eval $(call gb_ExternalPackage_ExternalPackage,fonts_liberation,font_liberation))
 
 $(eval $(call gb_ExternalPackage_add_unpacked_files,fonts_liberation,$(LIBO_SHARE_FOLDER)/fonts/truetype,\
-	LiberationMono-Bold.ttf \
+        LiberationMono-Bold.ttf \
 	LiberationMono-BoldItalic.ttf \
 	LiberationMono-Italic.ttf \
 	LiberationMono-Regular.ttf \

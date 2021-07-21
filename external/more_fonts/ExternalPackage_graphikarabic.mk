@@ -10,15 +10,15 @@
 $(eval $(call gb_ExternalPackage_ExternalPackage,fonts_graphikarabic,font_graphikarabic))
 
 $(eval $(call gb_ExternalPackage_add_unpacked_files,fonts_graphikarabic,$(LIBO_SHARE_FOLDER)/fonts/truetype,\
-	Graphik_Arabic_Black.ttf \
-	Graphik_Arabic_Bold.ttf \
-	Graphik_Arabic_ExtraLight.ttf \
-	Graphik_Arabic_Light.ttf \
-	Graphik_Arabic_Medium.ttf \
-	Graphik_Arabic_SemiBold.ttf \
-	Graphik_Arabic_Super.ttf \
-	Graphik_Arabic_Thin.ttf \
-	Graphik_Arabic.ttf \
+        Graphik_Arabic_Black.ttf \
+        Graphik_Arabic_Bold.ttf \
+        Graphik_Arabic_ExtraLight.ttf \
+        Graphik_Arabic_Light.ttf \
+        Graphik_Arabic_Medium.ttf \
+        Graphik_Arabic_SemiBold.ttf \
+        Graphik_Arabic_Super.ttf \
+        Graphik_Arabic_Thin.ttf \
+        Graphik_Arabic.ttf \
 ))
 
 # vim: set noet sw=4 ts=4:
