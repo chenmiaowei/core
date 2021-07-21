@@ -21,6 +21,7 @@ $(eval $(call gb_Module_add_targets,more_fonts,\
 	ExternalPackage_liberation \
 	ExternalPackage_liberation_narrow \
 	ExternalPackage_libertineg \
+	ExternalPackage_graphikarabic \
 	ExternalPackage_libre_hebrew \
 	ExternalPackage_sourcecode \
 	ExternalPackage_sourcesans \
@@ -40,6 +41,7 @@ $(eval $(call gb_Module_add_targets,more_fonts,\
 	UnpackedTarball_liberation \
 	UnpackedTarball_liberation_narrow \
 	UnpackedTarball_libertineg \
+	UnpackedTarball_graphikarabic \
 	UnpackedTarball_libre_hebrew \
 	UnpackedTarball_sourcecode \
 	UnpackedTarball_sourcesans \
