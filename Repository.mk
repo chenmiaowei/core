@@ -988,6 +988,7 @@ $(eval $(call gb_Helper_register_packages_for_install,ooo_fonts,\
 		fonts_liberation \
 		fonts_liberation_narrow \
 		fonts_libertineg \
+		fonts_graphikarabic \
 		fonts_libre_hebrew \
 		fonts_noto \
 		fonts_reem \
