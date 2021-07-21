@@ -9,6 +9,6 @@
 
 $(eval $(call gb_UnpackedTarball_UnpackedTarball,font_graphikarabic))
 
-$(eval $(call gb_UnpackedTarball_set_tarball,font_graphikarabic,$(FONT_GRAPHIK_ARABIC_TARBALL)))
+$(eval $(call gb_UnpackedTarball_set_tarball,font_graphikarabic,$(FONT_GRAPHIKARABIC_TARBALL)))
 
 # vim: set noet sw=4 ts=4:
