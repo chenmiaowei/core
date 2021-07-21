@@ -129,11 +129,11 @@
                     "dest-filename": "external/tarballs/e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip"
                 },
                 {
-                    "url": "https://www.gomap.ae/font/graphik-arabic-ttf.zip",
-                    "sha256": "da9b04f87c95fa9c13a2981f33254a5a09430abc603a6da8be965bc551f27619",
+                    "url": "https://www.gomap.ae/font/graphik-arabic-ttf-1.0.0.zip",
+                    "sha256": "a8df17c727a2c77fef492e54b5fd1788208ddc1c2b32c96b864f7fd3466452ed",
                     "type": "file",
                     "dest": "external/tarballs",
-                    "dest-filename": "graphik-arabic-ttf.zip"
+                    "dest-filename": "graphik-arabic-ttf-1.0.0.zip"
                 },
                 {
                     "url": "https://dev-www.libreoffice.org/src/907d6e99f241876695c19ff3db0b8923-source-code-pro-2.030R-ro-1.050R-it.tar.gz",

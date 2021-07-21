@@ -10,16 +10,15 @@
 $(eval $(call gb_ExternalPackage_ExternalPackage,fonts_graphikarabic,font_graphikarabic))
 
 $(eval $(call gb_ExternalPackage_add_unpacked_files,fonts_graphikarabic,$(LIBO_SHARE_FOLDER)/fonts/truetype,\
-	LinBiolinum_RB_G.ttf \
-	LinBiolinum_RI_G.ttf \
-	LinBiolinum_R_G.ttf \
-	LinLibertine_DR_G.ttf \
-	LinLibertine_RBI_G.ttf \
-	LinLibertine_RB_G.ttf \
-	LinLibertine_RI_G.ttf \
-	LinLibertine_RZI_G.ttf \
-	LinLibertine_RZ_G.ttf \
-	LinLibertine_R_G.ttf \
+	Graphik_Arabic_Black.ttf \
+	Graphik_Arabic_Bold.ttf \
+	Graphik_Arabic_ExtraLight.ttf \
+	Graphik_Arabic_Light.ttf \
+	Graphik_Arabic_Medium.ttf \
+	Graphik_Arabic_SemiBold.ttf \
+	Graphik_Arabic_Super.ttf \
+	Graphik_Arabic_Thin.ttf \
+	Graphik_Arabic.ttf \
 ))
 
 # vim: set noet sw=4 ts=4:
