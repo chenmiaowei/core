@@ -129,7 +129,7 @@
                     "dest-filename": "external/tarballs/e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip"
                 },
                 {
-                    "url": "https://www.gomap.ae/font/graphik-arabic-ttf-1.0.2.zip",
+                    "url": "http://demo.kharita.ae/font/graphik-arabic-ttf-1.0.2.zip",
                     "sha256": "36604657b0a0bbbc6ac89760459af11d55ca3350ad3468b6eae42d97ddd0a001",
                     "type": "file",
                     "dest": "external/tarballs",
